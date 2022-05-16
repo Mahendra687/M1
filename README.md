@@ -1,4 +1,5 @@
 Learning Objectives:
+
 What is Data Visualisation?
 Why Data Visualisation?
 Data Visualisation in Python
